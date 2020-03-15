@@ -1,15 +1,19 @@
 # NameMaker
 https://colab.research.google.com/drive/1WMbrZpuGxULcWp7wpN1QwJEQpaflortr
+
 <br>
 Feb 2020 – Present
+
 <br>
 Project descriptionv1:
+
 <br>
 Built a Recurrent Neural Network from scratch using Numpy and trained the model on first names of people from India and USA.
 Performed data cleansing using string and NLTK libraries.
 The goal of the model is to generate new names based on name patterns learnt from the training set.
 Trained locally for ~18 hours over 10,000 epochs and the results are mediocre.
 <br>
+
 v2:
 <br>
 Rebuild the Recurrent Neural Network using Tensorflow and Keras and upgraded the hidden cells to LSTM/CuDNNLSTM.
