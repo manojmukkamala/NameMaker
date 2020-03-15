@@ -2,7 +2,7 @@
 https://colab.research.google.com/drive/1WMbrZpuGxULcWp7wpN1QwJEQpaflortr
 
 <br>
-Feb 2020 – Present
+Feb 2020 – March 2020
 
 <br><br>
 Project description
