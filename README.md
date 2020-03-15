@@ -49,7 +49,7 @@ amina,
 ashina,
 aniyah
 
-<br>
+<br><br>
 Number of Hidden Units: n_a = 512
 <br>
 Number of Epochs: 100
