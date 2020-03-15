@@ -89,6 +89,3 @@ illia,
 imena,
 ashin,
 aiden
-
-<br><br>
-Work In Progress...
