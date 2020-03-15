@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1WMbrZpuGxULcWp7wpN1QwJEQpaflortr
 <br>
 Feb 2020 – Present
 
-<br>
+<br><br>
 Project descriptionv1:
 
 <br>
@@ -12,14 +12,14 @@ Built a Recurrent Neural Network from scratch using Numpy and trained the model 
 Performed data cleansing using string and NLTK libraries.
 The goal of the model is to generate new names based on name patterns learnt from the training set.
 Trained locally for ~18 hours over 10,000 epochs and the results are mediocre.
-<br>
+<br><br>
 
 v2:
 <br>
 Rebuild the Recurrent Neural Network using Tensorflow and Keras and upgraded the hidden cells to LSTM/CuDNNLSTM.
 Leveraged Google Collab GPU to train the model and trained for 500 epochs and attained reasonable results. Ex: arish, elina, lisha
 
-<br>
+<br><br>
 v3:
 <br>
 Number of Hidden Units: n_a = 64
