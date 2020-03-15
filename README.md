@@ -5,8 +5,9 @@ https://colab.research.google.com/drive/1WMbrZpuGxULcWp7wpN1QwJEQpaflortr
 Feb 2020 – Present
 
 <br><br>
-Project descriptionv1:
-
+Project description
+<br><br>
+v1:
 <br>
 Built a Recurrent Neural Network from scratch using Numpy and trained the model on first names of people from India and USA.
 Performed data cleansing using string and NLTK libraries.
